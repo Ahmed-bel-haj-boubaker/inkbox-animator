@@ -1,4 +1,4 @@
-<p align="center"><img src=".claude-plugin/icon.png" width="128" alt="Inkbox Animator icon"></p>
+<p align="center"><img src="icon.png" width="128" alt="Inkbox Animator icon"></p>
 
 <h1 align="center">Inkbox Animator</h1>
 
