@@ -5,7 +5,7 @@
 <p align="center"><b>Turn a voiceover into a finished animated video, right from Claude.</b><br>
 Cartoon shorts or cinematic stick-figure explainers, with scenes, camera moves, captions, music and sound effects. Everything is rendered by code.</p>
 
-![Bright Toon look](assets/preview-bright-toon.png)
+![Bright Toon look](preview-bright-toon.png)
 
 ---
 
