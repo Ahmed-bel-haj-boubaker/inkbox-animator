@@ -40,7 +40,7 @@ Ideal for "why does this happen?" shorts, comedy explainers and history told as 
 ### Cinematic stickman (five styles)
 Black stick figures with glowing rim light in moody 2.5D sets: giant face close-ups, freeze-frame "time stopped" moments, animated numbers and charts, blueprint diagrams and low-poly 3D orbit shots.
 
-![Stickman look](assets/preview-stickman.png)
+![Stickman look](preview-stickman.png)
 
 | Style | Feel |
 |---|---|
